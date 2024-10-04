@@ -25,19 +25,5 @@ This is a Spring Boot banking application that allows users to manage accounts, 
 - Java 11 or higher
 - Maven 3.6 or higher
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/banking-application.git
-   cd banking-application
-2.Build the project:
-  ```bash
-   mvn clean install
 
-3.Run the application:
-  ```bash
-   mvn spring-boot:run
-
-4.Access the API:
-Open your browser or API client and navigate to http://localhost:8080
